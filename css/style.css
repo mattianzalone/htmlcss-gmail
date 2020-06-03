@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #372323;
+    width: 80vw;
+    height: 100vh;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxNoOykQ_cx8ghHgSQedv3iyCwbKkOtk9aep_EbhJWNe7mc5hI&usqp=CAU);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+header{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid grey;
+}
+
+#gmail{
+    width: 70px;
+}
+
+h1{
+    display: inline-block;
+    color: white;
+    vertical-align: top;
+}
+main{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.input p{
+    display: inline-block;
+    color: white;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#cerchio{
+ width: 35px;
+ height: 35px;
+ background-color: orange;
+ display: inline-block;
+ text-align: center;
+ border-radius:50px;
+}
+
+.input span{
+    color: white;
+    font-size: 24px;
+}
+
+.checkbox{
+    border-bottom: 2px solid grey;
+    border-top: 2px solid grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.checkbox p{
+    color: black;
+    display: inline-block;
+}
+
+.checkbox span{
+    color: grey;
+}
+
+.grigio{
+    background-color:lightgrey;
+    border: 1px solid black;
+}
+
+.bianco{
+    background-color: white;
+    border: 1px solid black;
+}
+
+footer{
+    text-align: center;
+}
+
+.footer p{
+    color: white;
+    display: inline-block;
+}
+
+#GMail{
+    font-size: 25px;
+}
+
+#corsivo{
+    font-size: 22px;
+}
